@@ -1,0 +1,3 @@
+Context file i am adding into this frontend folder just to check the functionality of reading the context 
+
+what i want to achive is to make the frontend ask the LLM for information about the topic selected in the dropdown, this information should be displayed in a
